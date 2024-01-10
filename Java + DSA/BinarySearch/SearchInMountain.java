@@ -40,6 +40,7 @@ class SearchInMountain {
         
         }
         return -1;
+        
 
     }
     static int peakIndex(int [] arr) {

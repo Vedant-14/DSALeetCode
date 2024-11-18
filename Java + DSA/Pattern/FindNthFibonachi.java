@@ -1,4 +1,4 @@
-package Recurrsion;
+package Pattern;
 
 public class FindNthFibonachi {
     public static void main(String[] args) {

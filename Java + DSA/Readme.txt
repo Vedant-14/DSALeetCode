@@ -1,0 +1,1 @@
+Questions of StacksandQueues are coded in replit online website.
